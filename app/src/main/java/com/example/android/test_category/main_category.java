@@ -51,7 +51,7 @@ public class main_category extends AppCompatActivity {
 
                             put_location.setText(getLatitude.toString()+"   "+getLongitude.toString());
                         }
-
+                        //end if
 
 
                     }
