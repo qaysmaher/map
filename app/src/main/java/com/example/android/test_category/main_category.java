@@ -50,5 +50,6 @@ public class main_category extends AppCompatActivity {
 
     private void requestpermissin(){
         ActivityCompat.requestPermissions(this,new String[]{ACCESS_FINE_LOCATION},1);
+        //////////////////////////////////////
     }
 }
